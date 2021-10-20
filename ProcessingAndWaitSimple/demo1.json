@@ -1,0 +1,51 @@
+﻿[
+  // for showing in article
+  {
+    "TimeGenerated": "\/Date(1614876820000)\/",
+    "EntryType": 4,
+    "Source": "MSSQL$SQLEXPRESS",
+    "Message": "Parallel redo is shutdown for database \u0027Test1\u0027 with worker pool size [2]."
+  },
+  {
+    "TimeGenerated": "\/Date(1614876820000)\/",
+    "EntryType": 4,
+    "Source": "MSSQL$SQLEXPRESS",
+    "Message": "Parallel redo is started for database \u0027Test1\u0027 with worker pool size [2]."
+  },
+  {
+    "TimeGenerated": "\/Date(1614876820000)\/",
+    "EntryType": 4,
+    "Source": "MSSQL$SQLEXPRESS",
+    "Message": "Starting up database \u0027Test1\u0027."
+  },
+  {
+    "TimeGenerated": "\/Date(1614876820000)\/",
+    "EntryType": 4,
+    "Source": "MSSQL$SQLEXPRESS",
+    "Message": "Parallel redo is shutdown for database \u0027SchoolDB\u0027 with worker pool size [2]."
+  },
+  {
+    "TimeGenerated": "\/Date(1614876820000)\/",
+    "EntryType": 4,
+    "Source": "MSSQL$SQLEXPRESS",
+    "Message": "Parallel redo is started for database \u0027SchoolDB\u0027 with worker pool size [2]."
+  },
+  {
+    "TimeGenerated": "\/Date(1614876820000)\/",
+    "EntryType": 4,
+    "Source": "MSSQL$SQLEXPRESS",
+    "Message": "Starting up database \u0027SchoolDB\u0027."
+  },
+  {
+    "TimeGenerated": "\/Date(1614876820000)\/",
+    "EntryType": 4,
+    "Source": "MSSQL$SQLEXPRESS",
+    "Message": "Parallel redo is shutdown for database \u0027NorthWindAzure2\u0027 with worker pool size [2]."
+  },
+  {
+    "TimeGenerated": "\/Date(1614876820000)\/",
+    "EntryType": 4,
+    "Source": "MSSQL$SQLEXPRESS",
+    "Message": "Parallel redo is started for database \u0027NorthWindAzure2\u0027 with worker pool size [2]."
+  }
+]
